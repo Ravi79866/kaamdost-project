@@ -33,6 +33,7 @@ Kaamdost is a project management case study demonstrating the complete project l
 
 ## Methodology
 
+
 Based on PMI project management principles, CAPM exam concepts, Professional Scrum Master I (PSM I) principles, and practical project management practices using hybrid methodologies.
 
 The project approach combines traditional project management practices with Agile ways of working, including project initiation, planning, execution, monitoring and control, risk management, stakeholder management, Scrum practices, and project closure.
