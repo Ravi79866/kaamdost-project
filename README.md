@@ -1,6 +1,7 @@
 # Kaamdost Project Management Portfolio
 
 ## Project Overview
+
 Kaamdost is a project management case study demonstrating the complete project lifecycle from initiation to closure.
 
 ## Project Management Areas Covered
@@ -29,13 +30,18 @@ Kaamdost is a project management case study demonstrating the complete project l
 - Final Documentation
 
 ## Methodology
-Based on PMI project management principles and CAPM knowledge areas.
 
+## Methodology
+
+Based on PMI project management principles, CAPM exam concepts, Professional Scrum Master I (PSM I) principles, and practical project management practices using hybrid methodologies.
+
+The project approach combines traditional project management practices with Agile ways of working, including project initiation, planning, execution, monitoring and control, risk management, stakeholder management, Scrum practices, and project closure.
 ## Tools Used
+
 - Microsoft Excel
 - Microsoft Project
 - Project Documentation Templates
 
 ## Role
-Project Coordinator / Project Manager Practice Portfolio# kaamdost-project
-Project management portfolio for Kaamdost including initiation, planning, risk management, scheduling, and reporting documents.
+
+Project Coordinator / Project Manager Practice Portfolio
