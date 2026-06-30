@@ -21,11 +21,13 @@ Kaamdost is a project management case study demonstrating the complete project l
 - Cost Management Plan
 
 ### Execution and Monitoring
+
 - Weekly Project Dashboard
 - Progress Monitoring
 - Stakeholder Communication
 
 ### Closing
+
 - Project Closure Report
 - Final Documentation
 
